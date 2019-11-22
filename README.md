@@ -8,6 +8,7 @@ DevelUp 프로젝트
 Node.JS, Bootstrap, jQuery, jQuery UI
 
 참고: w3schools
+
 ------------------------------
 
 추가적으로 더 해보고 싶은 작업
