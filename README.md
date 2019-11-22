@@ -2,7 +2,9 @@
 DevelUp 프로젝트
 
 주제: 공동체
+
 제목: 퇴직금 계산기
+
 제작: OJH
 
 Node.JS, Bootstrap, jQuery, jQuery UI
